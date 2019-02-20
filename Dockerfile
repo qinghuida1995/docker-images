@@ -1,1 +1,1 @@
-From $image
+From gcr.io/kubernetes-helm/tiller:v2.12.3
